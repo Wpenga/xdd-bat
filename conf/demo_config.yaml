@@ -22,5 +22,5 @@ qbot_public_mode: true
 default_priority:
 no_ghproxy: true
 daily_asset_push_cron:
-repos:
-  - git: https://github.com/shufflewzc/faker2.git
+#repos:
+#  - git: https://github.com/shufflewzc/faker2.git
